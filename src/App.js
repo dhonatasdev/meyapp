@@ -8,7 +8,6 @@ import PromotionCard from './components/Promotion/Card/Card';
 
 function App() {
   const promotion =
-
   {
     "id": 1,
     "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
